@@ -12,14 +12,14 @@ CD=0
 Priority=0
 
 [Package2]
-Folder=speech
+Folder=language
 Description=
 Primary=0
 CD=0
 Priority=0
 
 [Package3]
-Folder=language
+Folder=speech
 Description=
 Primary=0
 CD=0
@@ -36,7 +36,7 @@ ShowFPS=0
 DebugConsole=1
 
 [Resource]
-CustomPaths=data;speech;language
+CustomPaths=data;language;speech
 
 [Packager]
 OutputFolder=packages

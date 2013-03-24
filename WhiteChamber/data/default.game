@@ -4,7 +4,7 @@ GAME {
   NAME="WhiteChamber"
   CAPTION="WhiteChamber"
   SCRIPT="scripts\game.script"
-  PERSONAL_SAVEGAMES=FALSE
+  PERSONAL_SAVEGAMES=TRUE
   LOCAL_SAVE_DIR="saves"
   INDICATOR_HEIGHT=8
   INDICATOR_COLOR { 255, 0, 0, 128 }
